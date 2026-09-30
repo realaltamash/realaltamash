@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @realaltamash
-- 👀 I’m interested in UI/UX designing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: you can contact me on instagram @real.altamash
+# Hi, I'm Mirza Altamash Baig 👋
 
-<!---
-realaltamash/realaltamash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Associate Software Engineer and Technical Trainer with 1+ year of experience
+teaching SQL, Oracle, PL/SQL, Power BI and Excel. Building my portfolio to
+move into data analytics.
+
+## 🛠 Skills
+SQL • PL/SQL • Oracle 11g/19c • Power BI • Excel • Python
+
+## 📊 Projects
+- [Retail Sales Dashboard](link): Power BI + SQL dashboard on [X] records
+- [SQL Business Analysis](link): [X] business questions answered with SQL
+
+## 📫 Contact
+baigaltamash05@gmail.com | www.linkedin.com/in/altamashmirza
